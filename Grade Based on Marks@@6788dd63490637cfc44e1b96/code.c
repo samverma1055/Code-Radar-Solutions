@@ -2,7 +2,6 @@
 int main()
 {
     int marks;
-    printf("enter marks :");
     scanf("%d",&marks);
     if(marks>=0 && marks <60){
         printf("'F'");
